@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger-",
+  "version": "1.0.0",
+  "description": "Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sdanner08/Eat-Da-Burger-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sdanner08/Eat-Da-Burger-/issues"
+  },
+  "homepage": "https://github.com/Sdanner08/Eat-Da-Burger-#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "mysql": "^2.16.0",
+    "node": "^10.8.0"
+  }
+}
